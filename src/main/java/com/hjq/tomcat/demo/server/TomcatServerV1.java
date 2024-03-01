@@ -1,6 +1,6 @@
 package com.hjq.tomcat.demo.server;
 
-import com.hjq.tomcat.demo.common.Response;
+import com.hjq.tomcat.v1.common.Response;
 
 import java.io.*;
 import java.net.ServerSocket;
